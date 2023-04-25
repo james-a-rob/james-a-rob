@@ -17,6 +17,6 @@
 ##### Currently looking for DevRel roles. See my full resume [here](https://resume.io/r/WBsfyyp9x)
 
 ### Spotlight
- - Mozilla virtual reality article
- - Next.js tutorial and video tutorial
- - Automation for public speaking blog post
+ - [Mozilla virtual reality article](https://hubs.mozilla.com/labs/building-an-enhanced-chat-experience-for-hubs/)
+ - [Vue tutorial](https://sendbird.com/blog/build-a-vue-chat-app) and [video tutorial](https://www.youtube.com/watch?v=D4z4zh0Z7hs)
+ - [Automation for public speaking blog post](https://automating.life/using-automation-to-become-a-better-public-speaker)
