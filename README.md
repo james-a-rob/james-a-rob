@@ -1,4 +1,4 @@
-![image](https://pbs.twimg.com/profile_banners/1402918520825028611/1679581709/1080x360)
+![image](https://dynamic-image.onrender.com/image/latest-follower.jpeg?background=white&textColor=%23607d8b)
 
 (the above image dynamicaly updates based on data from the Github Graphql API. If you want to add something similar to your profile I made the code available [here](https://github.com/james-a-rob/dynamic-github-header) )
 
