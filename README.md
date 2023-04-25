@@ -16,3 +16,7 @@
 
 ##### Currently looking for DevRel roles. See my full resume [here](https://resume.io/r/WBsfyyp9x)
 
+### Spotlight
+ - Mozilla Hubs article
+ - Next.js tutorial and video tutorial
+ - Automation for public speaking blog post
