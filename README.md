@@ -14,8 +14,6 @@
 👨‍🏫 Driven by sharing knowledge and empowering developers.
 
 
-##### Currently looking for DevRel roles. See my full resume [here](https://resume.io/r/WBsfyyp9x)
-
 ### Spotlight
  - [Mozilla virtual reality article](https://hubs.mozilla.com/labs/building-an-enhanced-chat-experience-for-hubs/)
  - [Vue tutorial](https://sendbird.com/blog/build-a-vue-chat-app) and [video tutorial](https://www.youtube.com/watch?v=D4z4zh0Z7hs)
