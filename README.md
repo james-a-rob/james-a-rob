@@ -1,7 +1,3 @@
-![image](https://dynamic-image.onrender.com/image/latest-follower.jpeg?background=white&textColor=%23607d8b&userName=james-a-rob)
-
-(the above image dynamicaly updates based on data from the Github Graphql API. If you want to add something similar to your profile I made the code available [here](https://github.com/james-a-rob/dynamic-github-header) )
-
 ### Tech Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,py,aws)](https://skillicons.dev)
 
